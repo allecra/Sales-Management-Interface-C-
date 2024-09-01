@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|c:\\users\\allec\\source\\repos\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\formqlbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:formqlbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\formqlbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:formqlbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\formxoahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:formxoahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\formsuahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:formsuahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\formxoahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:formxoahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\formthemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:formthemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\formsuahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:formsuahd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\formthemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48E1ABD-4230-4733-B231-BC0AE45E1D18}|CHUONG_6.csproj|solutionrelative:formthemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormXoaHD.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormXoaHD.cs",
+              "RelativeDocumentMoniker": "FormXoaHD.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormXoaHD.cs",
+              "RelativeToolTip": "FormXoaHD.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwC0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:22:20.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormSuaHD.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormSuaHD.cs",
+              "RelativeDocumentMoniker": "FormSuaHD.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormSuaHD.cs",
+              "RelativeToolTip": "FormSuaHD.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAFUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:19:37.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormThemHD.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormThemHD.cs",
+              "RelativeDocumentMoniker": "FormThemHD.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormThemHD.cs",
+              "RelativeToolTip": "FormThemHD.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:11:57.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormThemHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormThemHD.cs",
+              "RelativeDocumentMoniker": "FormThemHD.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_6\\FormThemHD.cs [Design]",
+              "RelativeToolTip": "..\\CHUONG_6\\FormThemHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:42:43.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormXoaHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormXoaHD.cs",
+              "RelativeDocumentMoniker": "FormXoaHD.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_6\\FormXoaHD.cs [Design]",
+              "RelativeToolTip": "..\\CHUONG_6\\FormXoaHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:59:21.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSuaHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormSuaHD.cs",
+              "RelativeDocumentMoniker": "FormSuaHD.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_6\\FormSuaHD.cs [Design]",
+              "RelativeToolTip": "..\\CHUONG_6\\FormSuaHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:53:26.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormQLBH.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormQLBH.cs",
+              "RelativeDocumentMoniker": "FormQLBH.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormQLBH.cs",
+              "RelativeToolTip": "FormQLBH.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAUwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:35:51.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormQLBH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormQLBH.cs",
+              "RelativeDocumentMoniker": "FormQLBH.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\FormQLBH.cs [Design]",
+              "RelativeToolTip": "FormQLBH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:32:04.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD B\u00E1n H\u00E0ng\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:30:48.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

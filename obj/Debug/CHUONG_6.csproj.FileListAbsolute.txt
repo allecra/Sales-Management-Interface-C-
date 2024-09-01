@@ -1,0 +1,12 @@
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.csproj.AssemblyReference.cache
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.FormQLBH.resources
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.FormSuaHD.resources
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.FormThemHD.resources
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.FormXoaHD.resources
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.csproj.GenerateResource.cache
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.csproj.CoreCompileInputs.cache
+C:\Users\allec\source\repos\CHUONG_6\bin\Debug\CHUONG_6.exe.config
+C:\Users\allec\source\repos\CHUONG_6\bin\Debug\CHUONG_6.exe
+C:\Users\allec\source\repos\CHUONG_6\bin\Debug\CHUONG_6.pdb
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.exe
+C:\Users\allec\source\repos\CHUONG_6\obj\Debug\CHUONG_6.pdb
